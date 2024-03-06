@@ -1,0 +1,9 @@
+{
+	"name": "wonderpoc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71eac316-edef-456c-9a8d-85b5fc6d2892",
+		"tenantId": "e517aeb1-d326-4ffe-8b89-705220157f0d"
+	}
+}
